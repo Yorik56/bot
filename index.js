@@ -137,8 +137,8 @@ const options = {
         reconnect: true,
     },
     identity: {
-        username: 'amelioretonbot',
-        password: 'oauth:06d9m3c1rx8rggwehiisab8uafcrrd',
+        username: 'username',
+        password: 'oauth: pass',
     },
     channels: ['locklear'],
 };
